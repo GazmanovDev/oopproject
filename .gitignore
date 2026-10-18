@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+data/
+build/
+dist/
+*.spec
+releases/
+/local/
+/ОБЪЯСНЕНИЕ.md
+/ПАМЯТКА.md
