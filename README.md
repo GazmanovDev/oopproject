@@ -6,6 +6,7 @@ Python 3.13.5, PySide6 6.12.0. Интерфейс на русском языке
 
 ## Готовая версия
 
+Скачать - https://github.com/GazmanovDev/oopproject/releases/tag/release
 Распакуйте архив `TaskList-v1.0.0-windows-x64.zip` и запустите `TaskList.exe` внутри папки `TaskList`. Python устанавливать не требуется. Все файлы из папки должны оставаться рядом с приложением.
 
 ## Запуск из исходников
